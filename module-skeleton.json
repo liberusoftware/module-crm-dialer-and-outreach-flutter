@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-dialer-and-outreach-flutter",
+  "capabilityKey": "liberusoftware/module-crm-dialer-and-outreach",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_dialer_and_outreach_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/dialer-and-outreach.md",
+  "presentationPlan": "projects/crm/flutter/dialer-and-outreach.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
